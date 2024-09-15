@@ -16,7 +16,7 @@ I am now seeking opportunities to launch my career and make a meaningful impact 
 
 ### 🌐 Connect with Me:
 - [LinkedIn](https://linkedin.com/in/satyamsahu671)
-- [Portfolio](https://satyamsahu671.wixsite.com/satyamsahu)
+- [Portfolio](https://satyam671.github.io/portfolio/)
 
 
 <!--
