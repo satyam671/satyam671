@@ -1,7 +1,7 @@
 ## Hi there, I'm Satyam 👋
 
-I'm a passionate aspiring Data Engineer with hands-on experience in Python, SQL, and cloud technologies. I'm on a mission to build efficient data pipelines and explore the vast world of data science.
-As an aspiring data engineer, I am passionate about transforming raw data into valuable insights that drive business decisions. With a strong foundation in Computer Science and hands-on experience in academic projects, I am eager to apply my skills in data pipeline development, database management, and big data technologies to real-world challenges.
+I'm a Freelance Data Engineer with hands-on experience in Python, SQL, and cloud technologies. I'm on a mission to build efficient data pipelines and explore the vast world of data science.
+As a freelance data engineer, I am passionate about transforming raw data into valuable insights that drive business decisions. With a strong foundation in Computer Science and hands-on experience in academic projects, I am eager to apply my skills in data pipeline development, database management, and big data technologies to real-world challenges.
 
 My technical expertise spans Python programming, SQL for data analysis, Cloud Computing and Big Data tools and frameworks. I am constantly expanding my knowledge to stay at the forefront of this dynamic field. I thrive in collaborative environments and am excited to contribute my analytical mindset and problem-solving abilities to innovative data engineering projects.
 
